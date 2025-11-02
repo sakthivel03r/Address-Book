@@ -1,21 +1,13 @@
 # 📘 Address Book Management System (C Project)
 
 ------------------------------------------------------------------------------------|
+
 /* Describition About Project */ 
 
-A simple 'Address Book Application' written in C that allows users to 
-    1)create
-    2)edit 
-    3)delete 
-    4)search 
-    5)save contacts.
+A simple 'Address Book Application' written in C that allows users to create , edit , delete , search , save contacts.
 
-This project demonstrates the use of 
-    1)structures 
-    2)enums
-    3)file handling
-    4)validation
-    5)ANSI color codes in C.
+This project demonstrates the use of structures , enums , file handling , validation , ANSI color codes in C.
+    
 ------------------------------------------------------------------------------------|
 
 ## 🚀 Features
