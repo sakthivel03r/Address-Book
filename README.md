@@ -62,12 +62,14 @@ The first line stores the number of contacts:
 #3
 
 Each subsequent line stores contact details in CSV format:
-
+ 
 Name,Phone,Email
-John Doe,9876543210,john@example.com
-Alice,8765432109,alice@mail.com
-Bob,9123456780,bob@domain.com
 
+John Doe,9876543210,john@example.com
+
+Alice,8765432109,alice@mail.com
+
+Bob,9123456780,bob@domain.com
 
 ------------------------------------------------------------------------------------|
 
@@ -110,8 +112,11 @@ Address Book Menu
     7) Exit
 
 Enter the option: 1
+
 Enter Name: John
+
 Enter Mobile Number: 9876543210
+
 Enter Mail ID: john@gmail.com
 
 Contact Created Successfully (:
